@@ -1,11 +1,11 @@
 
 Autores: 
 
-   Nicolás Alejandro Ávila Pérez
+   * Nicolás Alejandro Ávila Pérez
 
-   Andrés Felipe Duque Bran
+   * Andrés Felipe Duque Bran
 
-   Andrés Felipe Villacob Hernández
+   * Andrés Felipe Villacob Hernández
 
 ***
 
